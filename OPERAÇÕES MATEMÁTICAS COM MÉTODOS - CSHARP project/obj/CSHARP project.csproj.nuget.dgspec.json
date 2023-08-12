@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\COMPUTADOR\\Documents\\GitHub\\Basic-mathematic-algoritm\\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\\CSHARP project.csproj": {}
+    "C:\\Users\\COMPUTADOR\\Documents\\GitHub\\Basic-mathematic-algoritm\\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\\CSHARP project.csproj": {}
   },
   "projects": {
-    "c:\\Users\\COMPUTADOR\\Documents\\GitHub\\Basic-mathematic-algoritm\\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\\CSHARP project.csproj": {
+    "C:\\Users\\COMPUTADOR\\Documents\\GitHub\\Basic-mathematic-algoritm\\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\\CSHARP project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\COMPUTADOR\\Documents\\GitHub\\Basic-mathematic-algoritm\\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\\CSHARP project.csproj",
+        "projectUniqueName": "C:\\Users\\COMPUTADOR\\Documents\\GitHub\\Basic-mathematic-algoritm\\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\\CSHARP project.csproj",
         "projectName": "CSHARP project",
-        "projectPath": "c:\\Users\\COMPUTADOR\\Documents\\GitHub\\Basic-mathematic-algoritm\\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\\CSHARP project.csproj",
+        "projectPath": "C:\\Users\\COMPUTADOR\\Documents\\GitHub\\Basic-mathematic-algoritm\\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\\CSHARP project.csproj",
         "packagesPath": "C:\\Users\\COMPUTADOR\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\COMPUTADOR\\Documents\\GitHub\\Basic-mathematic-algoritm\\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\\obj\\",
+        "outputPath": "C:\\Users\\COMPUTADOR\\Documents\\GitHub\\Basic-mathematic-algoritm\\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\COMPUTADOR\\AppData\\Roaming\\NuGet\\NuGet.Config"

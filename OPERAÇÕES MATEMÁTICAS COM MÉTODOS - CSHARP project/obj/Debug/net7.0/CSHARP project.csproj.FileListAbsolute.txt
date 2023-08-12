@@ -12,3 +12,17 @@ C:\Users\COMPUTADOR\Documents\CSHARP project\obj\Debug\net7.0\refint\CSHARP proj
 C:\Users\COMPUTADOR\Documents\CSHARP project\obj\Debug\net7.0\CSHARP project.pdb
 c:\Users\COMPUTADOR\Documents\CSHARP project\obj\Debug\net7.0\CSHARP project.genruntimeconfig.cache
 c:\Users\COMPUTADOR\Documents\CSHARP project\obj\Debug\net7.0\ref\CSHARP project.dll
+C:\Users\COMPUTADOR\Documents\GitHub\Basic-mathematic-algoritm\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\bin\Debug\net7.0\CSHARP project.exe
+C:\Users\COMPUTADOR\Documents\GitHub\Basic-mathematic-algoritm\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\bin\Debug\net7.0\CSHARP project.deps.json
+C:\Users\COMPUTADOR\Documents\GitHub\Basic-mathematic-algoritm\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\bin\Debug\net7.0\CSHARP project.runtimeconfig.json
+C:\Users\COMPUTADOR\Documents\GitHub\Basic-mathematic-algoritm\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\bin\Debug\net7.0\CSHARP project.dll
+C:\Users\COMPUTADOR\Documents\GitHub\Basic-mathematic-algoritm\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\bin\Debug\net7.0\CSHARP project.pdb
+C:\Users\COMPUTADOR\Documents\GitHub\Basic-mathematic-algoritm\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\obj\Debug\net7.0\CSHARP project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUTADOR\Documents\GitHub\Basic-mathematic-algoritm\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\obj\Debug\net7.0\CSHARP project.AssemblyInfoInputs.cache
+C:\Users\COMPUTADOR\Documents\GitHub\Basic-mathematic-algoritm\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\obj\Debug\net7.0\CSHARP project.AssemblyInfo.cs
+C:\Users\COMPUTADOR\Documents\GitHub\Basic-mathematic-algoritm\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\obj\Debug\net7.0\CSHARP project.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTADOR\Documents\GitHub\Basic-mathematic-algoritm\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\obj\Debug\net7.0\CSHARP project.dll
+C:\Users\COMPUTADOR\Documents\GitHub\Basic-mathematic-algoritm\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\obj\Debug\net7.0\refint\CSHARP project.dll
+C:\Users\COMPUTADOR\Documents\GitHub\Basic-mathematic-algoritm\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\obj\Debug\net7.0\CSHARP project.pdb
+C:\Users\COMPUTADOR\Documents\GitHub\Basic-mathematic-algoritm\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\obj\Debug\net7.0\CSHARP project.genruntimeconfig.cache
+C:\Users\COMPUTADOR\Documents\GitHub\Basic-mathematic-algoritm\OPERAÇÕES MATEMÁTICAS COM MÉTODOS - CSHARP project\obj\Debug\net7.0\ref\CSHARP project.dll
