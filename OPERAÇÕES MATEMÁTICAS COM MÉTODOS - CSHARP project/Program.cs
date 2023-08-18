@@ -15,54 +15,90 @@ internal class Program
         Console.WriteLine("multiplication => *");
         Console.WriteLine("division => /");
 
-        userInput = Console.ReadLine();
-
         Program p = new Program();
+
+        userInput = Console.ReadLine();
 
         switch (userInput) {
             case "+":
-            Console.WriteLine(p.addition(2, 2));
+            p.addition();
             break;
             
             case "-":
-            Console.WriteLine(p.subtraction(6, 2));
+            p.subtraction();
             break;
 
             case "*":
-            Console.WriteLine(p.multiplication(2,2));
+            p.multiplication();
             break;
 
             case "/":
-            Console.WriteLine(p.division(8,2));
+            p.division();
             break;
         }
-        
-
-        
-        
-
-       
-    }
-
-    public int addition(int number1, int number2){
-        int result = number1 + number2;
-        return result;
-    }
-
-    public int subtraction(int number1, int number2){
-        int result = number1 - number2;
-        return result;
     
+
     }
 
-    public int multiplication(int number1, int number2){
+    public void addition(){
+        Console.WriteLine("addition mode activated");
+
+        Console.WriteLine("insert the first number:");
+        userInput = Console.ReadLine();
+        int number1 = Convert.ToInt16(userInput); 
+
+        Console.WriteLine($"you first number is {number1}, insert your second number:");
+        userInput = Console.ReadLine();
+        int number2 = Convert.ToInt16(userInput);
+
+        int result = number1 + number2;
+        
+        Console.WriteLine($"your result is: {result}");
+    }
+
+   public void subtraction(){
+        Console.WriteLine("subtraction mode activated");
+
+        Console.WriteLine("insert the first number:");
+        userInput = Console.ReadLine();
+        int number1 = Convert.ToInt16(userInput); 
+
+        Console.WriteLine($"you first number is {number1}, insert your second number:");
+        userInput = Console.ReadLine();
+        int number2 = Convert.ToInt16(userInput);
+
+        int result = number1 - number2;
+        Console.WriteLine($"your result is: {result}");
+    }
+
+    public void multiplication(){
+        Console.WriteLine("multiplication mode activated");
+
+        Console.WriteLine("insert the first number:");
+        userInput = Console.ReadLine();
+        int number1 = Convert.ToInt16(userInput); 
+
+        Console.WriteLine($"you first number is {number1}, insert your second number:");
+        userInput = Console.ReadLine();
+        int number2 = Convert.ToInt16(userInput);
+
         int result = number1 * number2;
-        return result;
+        Console.WriteLine($"your result is: {result}");
     }
 
-    public int division(int number1, int number2){
+    public void division(){
+        Console.WriteLine("division mode activated");
+
+        Console.WriteLine("insert the first number:");
+        userInput = Console.ReadLine();
+        int number1 = Convert.ToInt16(userInput); 
+
+        Console.WriteLine($"you first number is {number1}, insert your second number:");
+        userInput = Console.ReadLine();
+        int number2 = Convert.ToInt16(userInput);
+
         int result = number1 / number2;
-        return result;
-    }    
+        Console.WriteLine($"your result is: {result}");
+    }   
 
 }
